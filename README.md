@@ -13,7 +13,7 @@
         * one used by the nodes in the cluster
 
 #
-### image is built from a [python app](https://github.com/atefhares) then pushed to GCR so the private cluster can access it 
+### image is built from  [python app](https://github.com/atefhares) then pushed to GCR so the private cluster can access it 
 #
 
 # Deployment :
@@ -28,4 +28,4 @@
    *  LoadBalancer that expose the whole deployment  
 
 
-## Check the live deployment from [here](34.143.158.92)
+## Check the live deployment from [here](http://34.143.158.92/)
